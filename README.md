@@ -1,1 +1,0 @@
-Gatsby page for housekelly.com to A) learn gatsby and B) show off some projects i have worked on.
